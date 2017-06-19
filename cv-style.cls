@@ -205,7 +205,7 @@
 \RequirePackage[left=5.6cm,top=1cm,right=1cm,bottom=1cm,nohead,nofoot]{geometry}
 \RequirePackage{hyperref}
 \hypersetup{
-    pdftitle=CV/Resume \textbar{} Alejandro Pérez Londoño,
-    pdfauthor=Alejandro Pérez Londoño,
+    pdftitle=CV/Resume \textbar{} Shantanu Deshpande,
+    pdfauthor=Shantanu Deshpande,
     pdfsubject=CV/Resume%
     }
